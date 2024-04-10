@@ -1,7 +1,7 @@
 # productive-todo
 
 Implement a basic todo app with the following features:
-- A text input field for adding new todo items
+- A text input field for adding new todo items 
 - A list showing all the todo items
 - A button next to each todo item for marking it as done
 - Checking off a todo item should strike through the text
